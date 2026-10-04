@@ -10,7 +10,6 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Vishrut Sharma — ASCII portrait" /></td>
 </tr>
 </table>
 
