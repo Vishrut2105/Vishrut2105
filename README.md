@@ -8,15 +8,6 @@
 
 <h3><code>Vishrut2105@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="300" alt="Vishrut Sharma — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="540" alt="Vishrut Sharma — Overview & Details" /></td>
-</tr>
-</table>
-
-<br>
-
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
@@ -25,6 +16,15 @@
 <img src="./contrib-heatmap.svg" width="840" alt="GitHub contribution graph — auto-refreshed daily" />
 
 <br>
+<br>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="300" alt="Vishrut Sharma — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="540" alt="Vishrut Sharma — Overview & Details" /></td>
+</tr>
+</table>
+
 <br>
 
 <h3><code>Vishrut2105@github ~ $ ./links.sh</code></h3>
