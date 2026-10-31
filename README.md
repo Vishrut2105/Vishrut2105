@@ -6,7 +6,6 @@
      portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
      info card: python scripts/make_info_card.py -->
 
-<h3><code>Vishrut2105@github ~ $ whoami</code></h3>
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
@@ -24,7 +23,6 @@
 
 <br>
 
-<h3><code>Vishrut2105@github ~ $ ./links.sh</code></h3>
 
 <p><b>Student @ ADIT, Anand · Co-Founder @ UNITAPP Software Solutions</b></p>
 
